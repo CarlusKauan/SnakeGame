@@ -1,4 +1,4 @@
-# Jogo da cobrinha - SnakeGame
+# Jogo da cobrinha - snake Game
 
 <div align="left"> (*￣▽￣)ノ”(^∇^*) </div>
 <br />
