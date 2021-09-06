@@ -3,7 +3,7 @@
 <div align="left"> (*￣▽￣)ノ”(^∇^*) </div>
 <br />
 <p>jogo da cobrinha v1.0</p>
-<p>SnakeGame v2.0</p>
+<p>SnakeGame v1.0</p>
 
 ### Linguagens usadas [ Languages used ]
 
