@@ -1,5 +1,7 @@
 # Jogo da cobrinha - SnakeGame
 
+<div align="left"> (*￣▽￣)ノ”(^∇^*) </div>
+
 jogo da cobrinha v1.0 - SnakeGame v2.0
 
 ### Linguagens usadas [ Languages used ]
